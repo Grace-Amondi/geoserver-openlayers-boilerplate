@@ -1,4 +1,4 @@
-# geoserver-openlayers-boilerplate
+# nodejs-geoserver-openlayers-boilerplate
 This is a boilerplate template for creating web map applications with openlayers and geoserver.
 
 #### Clone repo
